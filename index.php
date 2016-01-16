@@ -1,3 +1,3 @@
 <?php
 
-PA
+echo"pelajaran pertama";
